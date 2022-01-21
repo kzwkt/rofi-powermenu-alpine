@@ -10,3 +10,4 @@ permit nopass :wheel as root cmd /sbin/poweroff
 
 permit nopass :wheel as root cmd /sbin/reboot
 
+
